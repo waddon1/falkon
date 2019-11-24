@@ -1,4 +1,4 @@
-= Falkon Web Browser =
+= Zirconium Web Browser =
 
 QtWebEngine web browser.
 
